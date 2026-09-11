@@ -76,3 +76,6 @@ The LED turns **ON for 200 ms**, then **OFF for 200 ms**, repeating continuously
 - `delay()`
 - LED polarity
 - Current limiting resistor
+
+- <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/dcd5c727-0fa4-4301-ad21-fa9ab93ff1b5" />
+
